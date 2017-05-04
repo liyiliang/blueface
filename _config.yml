@@ -3,8 +3,8 @@ title: junan
 description: A small and simple site I made to test out Jekyll.
 baseurl: "" # the subpath of your site, e.g. /blog
 
-url: "https://liyiliang.io/junan"
-github: http://github.com/liyiliang/blueface
+url: "https://liyiliang.github.io/junan"
+github: https://github.com/liyiliang/blueface
 highlighter: rouge
 markdown: kramdown
 permalink: /post/:title/
